@@ -76,7 +76,7 @@ textarea {
 
 #box1 a.logo, #box1 a.logo:visited {
 	display: inline-block;
-	background: url(logo.png);
+	background: url('https://paste.soar.host/logo.png');
 	width: 126px;
 	height: 42px;
 }
